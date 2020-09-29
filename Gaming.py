@@ -1,8 +1,6 @@
 """
 Xinyi Wu
 Rock, Paper, Scissors, Lizard, Spock (RPSL)
-11
-July 3, 2020
 The program randomly generates a number 1, 2, 3, 4, or 5 representing Rock, Paper, Scissors, Lizard, and Spock. The program then prompts user to enter a number 1, 2, 3, 4, or 5 and decides who wins, user or the computer.
 """
 
