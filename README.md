@@ -26,28 +26,10 @@ Explain here how you would run the program and what files need to be available.
 Hello_World/
 └── 
     │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+    │── Gaming.py
    
 ```
 
-## Files Used 
-
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
-
-
-## Additional Documentation
-
-No additional documentation at this time 
-
-
 ## Versioning
 
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+I used the random import from python to get random number to represent computer to compete with user. I set the value for each number from 1-5 to represent different answers, and compare the number from random system and user input to decide the winner. 
