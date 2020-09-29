@@ -1,7 +1,7 @@
 # Hello_World
 Practice Repository
 
-I'm currently a senior student majoring in BBA Business Analytics and Information System at The University of Iowa's Tippie College of Business. 
+
 ## Table of contents
 
 - [PROJECT TITLE](#Project-Title)
@@ -13,11 +13,11 @@ I'm currently a senior student majoring in BBA Business Analytics and Informatio
 
 ## Project Title
 
-Hello World Sample 
+Playing Rock, Paper, Scissors, Lizrd, Spock with Computer
 
 ## Description
 
-Practice using GitHub by creating a sample repository
+This program randomly generates a number 1, 2, 3, 4, or 5 representing Rock, Paper, Scissors, Lizard, and Spock. Then the program prompts user to enter a number 1, 2, 3, 4, or 5 and decides who wins, user or the computer.
 
 ## How to Run Program 
 
