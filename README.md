@@ -32,4 +32,4 @@ Hello_World/
 
 ## Versioning
 
-I used the random import from python to get random number to represent computer to compete with user. I set the value for each number from 1-5 to represent different answers, and compare the number from random system and user input to decide the winner. 
+I used the random import from python to get random number to represent computer and compete with user. I set the value for each number from 1-5 to represent different value, and compare the number from random system and user input to decide the winner. 
