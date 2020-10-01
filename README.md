@@ -15,7 +15,9 @@ Practice Repository
 
 ## Description
 
-This program randomly generates a number 1, 2, 3, 4, or 5 representing Rock, Paper, Scissors, Lizard, and Spock. Then the program prompts user to enter a number 1, 2, 3, 4, or 5 and decides who wins, user or the computer.
+This program randomly generates a number 1, 2, 3, 4, or 5 representing Rock, Paper, Scissors, Lizard, and Spock.
+>
+Then the program prompts user to enter a number 1, 2, 3, 4, or 5 and decides who wins, user or the computer.
 
 ## How to Run Program 
 
@@ -23,8 +25,8 @@ Explain here how you would run the program and what files need to be available.
 ```text
 Hello_World/
 └── 
-    │── README.md
-    │── Gaming.py
+    * README.md
+    * Gaming.py
    
 ```
 
