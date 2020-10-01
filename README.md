@@ -15,7 +15,7 @@ Practice Repository
 
 ## Description
 
-This program randomly generates a number 1, 2, 3, 4, or 5 representing Rock, Paper, Scissors, Lizard, and Spock.
+This program randomly generates a number 1, 2, 3, 4, or 5 representing *Rock, Paper, Scissors, Lizard, and Spock*.
 >
 Then the program prompts user to enter a number 1, 2, 3, 4, or 5 and decides who wins, user or the computer.
 
@@ -30,4 +30,3 @@ Then the program prompts user to enter a number 1, 2, 3, 4, or 5 and decides who
 
 I used the random import from python to get random number to represent computer and compete with user. I set the value for each number from 1-5 to represent different value, and compare the number from random system and user input to decide the winner. 
 
-![Gaming picture](C:\Users\xinyi\OneDrive\Desktop.png)
