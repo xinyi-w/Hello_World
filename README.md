@@ -29,3 +29,5 @@ Then the program prompts user to enter a number 1, 2, 3, 4, or 5 and decides who
 ## Versioning
 
 I used the random import from python to get random number to represent computer and compete with user. I set the value for each number from 1-5 to represent different value, and compare the number from random system and user input to decide the winner. 
+
+![Gaming picture](Game.jpg)
