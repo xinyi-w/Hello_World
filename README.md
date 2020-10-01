@@ -11,7 +11,7 @@ Practice Repository
 
 ## Project Title
 
-Playing Rock, Paper, Scissors, Lizrd, Spock with Computer
+**Playing Rock, Paper, Scissors, Lizrd, Spock with Computer**
 
 ## Description
 
