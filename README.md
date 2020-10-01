@@ -21,14 +21,8 @@ Then the program prompts user to enter a number 1, 2, 3, 4, or 5 and decides who
 
 ## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
-```text
-Hello_World/
-└── 
-    * README.md
-    * Gaming.py
-   
-```
+- Hello_World
+
 
 ## Versioning
 
